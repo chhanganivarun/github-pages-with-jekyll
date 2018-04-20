@@ -1,9 +1,9 @@
 ---
 layout: post
 author: Varun Chhangani
-title: Indentation Problems
+title: "Indentation Problems"
 categories: blog
-date: 2018-04-20 16:37:58 +0530
+date: 2018-04-20
 
 ---
 I'm glad you are here. I plan to talk about the increasing rage in programmers against fellow programmers on the basis of their code formatting and indentation style.
