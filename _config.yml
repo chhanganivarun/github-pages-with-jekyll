@@ -1,11 +1,11 @@
-title: Varun Chhangani's Blog
-author: Varun Chhangani
-email: chhanganivarun.github.io
+title: "Varun Chhangani's Blog"
+author: "Varun Chhangani"
+email: "varunchhangani@gmail.com"
 description: > # this means to ignore newlines until "baseurl:"
   Blog by Varun Chhangani his thoughts and ideas .
 # social links
-twitter_username: @VTCoder
-github_username:  chhanganivarun
+twitter_username: "@VTCoder"
+github_username:  "chhanganivarun"
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
